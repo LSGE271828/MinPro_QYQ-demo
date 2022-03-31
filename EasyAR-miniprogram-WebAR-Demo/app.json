@@ -1,0 +1,44 @@
+{
+  "pages":[
+    "pages/index/movie",
+    
+    "pages/index/out",
+    "pages/index/out1","pages/index/out2","pages/index/out3",
+    "pages/index/index",
+    "pages/index/bb",
+    "pages/index/bb1",
+    "pages/index/my"
+    
+  ],
+  
+
+
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "泉阳泉",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar":
+  {
+  "selectColor": "D53e37",
+  "backgroundColor":"transprent",
+  "opacity": "0",
+  "list": [
+  {
+    "text": "活动",
+    "pagePath":  "pages/index/movie"
+  },
+  {
+    "text": "商城",
+    "pagePath":  "pages/index/bb"
+  
+  }
+  
+  
+  ]
+  
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

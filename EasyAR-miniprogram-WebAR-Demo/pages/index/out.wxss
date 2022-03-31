@@ -1,0 +1,3 @@
+/* pages/index/out.wxss */
+.okbtn{     width:240rpx;      height:90rpx;       text-align: center;     line-height: 38px;     background-color:transparent;opacity:0.6
+}

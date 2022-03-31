@@ -1,0 +1,87 @@
+<view class="menu">
+    <scroll-view scroll-x="true" class="top-nav">
+        <view bindtap="toNew" class="top-btn {{new}}">活动详情</view>
+        
+      
+    </scroll-view>
+</view>
+<scroll-view scroll-y="true" style="height: 600px;" class="container">
+    <loading hidden="{{hidden}}">
+        加载中...
+    </loading>
+    <view class="first line">
+        <image class="first-img" mode="scaleToFill" src="https://img2.baidu.com/it/u=4153610136,1487799944&fm=253&fmt=auto&app=138&f=JPEG?w=730&h=385"></image>
+    </view>
+    <view class="second line">
+        <view class="sl-col">
+             <image class="second-img" mode="scaleToFill" src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg95.699pic.com%2Fxsj%2F0t%2F6n%2F7k.jpg%21%2Ffw%2F700%2Fwatermark%2Furl%2FL3hzai93YXRlcl9kZXRhaWwyLnBuZw%2Falign%2Fsoutheast&refer=http%3A%2F%2Fimg95.699pic.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1651025229&t=196c1156bfe8ce4dea1dfc912f05a19b"></image>
+             <text>虚拟盲盒</text>
+        </view>
+        <view class="sl-col">
+            <image class="second-img" mode="scaleToFill" src="https://img0.baidu.com/it/u=3782011282,1818398897&fm=26&fmt=auto"></image>
+            <text>联名礼品</text>
+        </view>
+        <view class="sl-col">
+             <image class="second-img" mode="scaleToFill" src="https://img0.baidu.com/it/u=2375519941,3809155706&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=501"></image>
+            <text>线下门店</text>
+        </view>
+        <view class="sl-col">
+             <image class="second-img" mode="scaleToFill" src="https://img0.baidu.com/it/u=810758690,692113305&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=573"></image>
+             <text>惊喜红包</text>
+        </view>
+    </view>
+    <view class="line toutiao">
+        <image class="toutiao-img" mode="center" src="https://img1.baidu.com/it/u=3628782612,2786473603&fm=253&fmt=auto&app=138&f=JPEG?w=300&h=401"></image>
+        <view class="two-line-text">
+            <text class="text-center txt">线上体验,环保币兑换限定礼品 ...</text>
+            <text class="text-center txt">线下打卡 , 城市联名,奖品丰厚 ...</text>
+        </view>
+    </view>
+    <view class="line forth">
+        <view class="left">
+            <image class="forth-img" mode="scaleToFill" src="http://www.qyqcn.com/uploads/image/20180625/1529890378262407.png"></image>
+        </view>
+        <view class="right">
+            <view class="top">
+                <view class="cl4">
+                    <image class="cl4-img" mode="scaleToFill" src="https://img0.baidu.com/it/u=2043243651,3803178948&fm=253&fmt=auto&app=138&f=JPEG?w=719&h=500"></image>
+                </view>
+                <view class="cl4">
+                    <image class="cl4-img" mode="scaleToFill" src="http://www.qyqcn.com/app/image/syqx3.jpg"></image>
+                </view>
+            </view>
+            <view class="bottom">
+                <view class="cl4">
+                    <image class="cl4-img" mode="scaleToFill" src="http://www.qyqcn.com/app/image/syqx2.jpg"></image>
+                </view>
+                <view class="cl4">
+                    <image class="cl4-img" mode="scaleToFill" src="http://www.qyqcn.com/app/image/syqx4.jpg"></image>
+                </view>
+            </view>
+        </view>
+    </view>
+     <view class="line one-img">
+        <text class="alone-line-text">行业动态
+
+</text>
+         <image class="poster" mode="scaleToFill" src="https://img2.baidu.com/it/u=2096385386,856786390&fm=253&fmt=auto&app=120&f=JPEG?w=640&h=335"></image> 
+        
+    </view>
+    <!-- <view class="b1">
+          <text>\n\n\n\n\n\n\n\n\n\n\n\n</text></view> -->
+    <view class="line one-img">
+      <image class="poster" mode="scaleToFill" src="http://www.qyqcn.com/uploads/tinymce/images/0a2de10e1addcb907097e95e0f20674561668ffb108fd.jpg"></image>
+    </view>
+    <view>
+        <image class="background" src="http://www.qyqcn.com/uploads/tinymce/images/0a2de10e1addcb907097e95e0f20674561668ffb108fd.jpg" mode="aspectFit"></image>
+    </view>
+    <view>
+        <image class="background" src="http://www.qyqcn.com/uploads/image/20180625/1529895596104782.png" mode="aspectFill"></image>
+    </view>
+     <view class="alone-line-txt">
+     合作企业
+     </view>
+    <view class="line one-img">
+        <image class="poster" mode="scaleToFill" src="http://www.qyqcn.com/uploads/image/20180625/1529906339872082.png"></image>
+    </view>
+</scroll-view>

@@ -1,0 +1,6 @@
+<!-- <view class="bgm"> <text>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</text></view>
+<button bindtap="gotoPage2" class="okbtn">进入识别</button>  
+
+ 
+ <button class='okbtn' bindtap='goBaidu'>VR全景</button> -->
+ <web-view src="http://uaxrrq.epub360.cn/v2/manage/book/mudmtp/"></web-view> 

@@ -1,0 +1,4 @@
+<!--pages/index/out1.wxml-->
+<view class="bgm"> <text>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</text></view>
+<button bindtap="gotoPage22" class="okbtn">进入H5页面</button> 
+<button bindtap="gotoPage11" class="okbtn">继续</button> 

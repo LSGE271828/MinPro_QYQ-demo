@@ -1,0 +1,16 @@
+<!--pages/movie/movie.wxml-->
+
+<!--导航栏-->
+<!-- swiper -->
+
+  <view class="bg"> <text>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</text>
+    <button bindtap="gotoPage1" class="okbtn">山泉之旅</button>
+  <text >\n\n\n\n\n\n\n\n\n\n</text></view>
+
+
+
+
+
+
+
+  

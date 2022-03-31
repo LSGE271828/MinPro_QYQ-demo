@@ -1,0 +1,7 @@
+/* pages/index/out1.wxss */
+.okbtn{     width:240rpx;      height:90rpx;       text-align: center;     line-height: 38px;     background-color:transparent;opacity:0.6
+}
+.bgm{background-size:100% 100%  ;
+    
+  background-size: 100%  ;
+  background-image:url("https://i0.hdslb.com/bfs/article/83b28b14fc132fc88d30464cd1ffdf4a971955dc.png@516w_929h_progressive.webp")}

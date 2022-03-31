@@ -1,0 +1,3 @@
+<!--pages/index/out1.wxml-->
+<view class="bgm"> <text>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</text></view>
+<button bindtap="gotoPage22" class="okbtn">继续</button> 
